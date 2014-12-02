@@ -37,6 +37,5 @@
 [github]
 	site = https://github.com
 	endpoint = https://api.github.com
-	oauth-token = ea20bc3f73fd1b35939b1cfa18aeec3bc33115bc
 [reflow]
 	git-server = GitHub
