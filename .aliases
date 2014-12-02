@@ -1,7 +1,14 @@
+# Bash/ZSH
+
+alias mkdir='mkdir -p'
+
+
 # R
 
 alias R="R --no-save --quiet"
 
+
 # Ruby
+
 
 # Ruby on Rails
