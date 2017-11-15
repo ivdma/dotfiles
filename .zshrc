@@ -29,7 +29,7 @@ DEFAULT_USER="ivan"
 # DISABLE_LS_COLORS="true"
 
 # Uncomment the following line to disable auto-setting terminal title.
-# DISABLE_AUTO_TITLE="true"
+DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
 # ENABLE_CORRECTION="true"
@@ -100,5 +100,6 @@ export PATH="/usr/local/opt/postgresql@9.5/bin:$PATH"
 export OPT_OUT_FROM_LOADING_YOUR_ENVIRONMENT_FASTER_WITH_BOOTSNAP=yes
 export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
 
+# ZSH plugins from Brew
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
